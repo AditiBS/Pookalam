@@ -50,11 +50,13 @@ Vercel – For hosting and deploying the web application online.
 <img width="662" height="732" alt="Screenshot 2025-09-05 122431" src="https://github.com/user-attachments/assets/8e82898d-e66e-4e89-b520-48711dafec40" />
 <img width="861" height="820" alt="Screenshot 2025-09-05 122452" src="https://github.com/user-attachments/assets/dc34e79c-6cdc-4cad-8fec-bb64613cd851" />
 <img width="812" height="832" alt="Screenshot 2025-09-05 122518" src="https://github.com/user-attachments/assets/3a98e28e-f294-43db-89b3-f18135edd9ca" />
-<img width="812" height="832" alt="Screenshot 2025-09-05 122518" src="https://github.com/user-attachments/assets/4ba248de-874a-4e70-adef-88cf64c9e444" />
+<img width="812" height="819" alt="Screenshot 2025-09-05 133911" src="https://github.com/user-attachments/assets/ecf6162e-a3e6-49cf-8784-5db47123f515" />
+
 
 
 Happy Onam ! <br>
 
 Made with ❤️ at TinkerHub LBSITW
+
 
 
