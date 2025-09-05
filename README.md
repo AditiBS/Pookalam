@@ -44,15 +44,17 @@ Image Assets – Custom flower images for decorative rings.
 Vercel – For hosting and deploying the web application online.
 
 ### Screenshots
-
-
+<img width="473" height="554" alt="Screenshot 2025-09-05 122234" src="https://github.com/user-attachments/assets/f7e69365-6c52-43cc-967a-e8e54b86f6bb" />
+<img width="720" height="696" alt="Screenshot 2025-09-05 122310" src="https://github.com/user-attachments/assets/4ed54d99-aafd-4a65-b7aa-0ae4e358babb" />
 <img width="685" height="867" alt="Screenshot 2025-09-05 122334" src="https://github.com/user-attachments/assets/c8cc8c53-a709-49c3-8dc7-70a3956d69e7" />
 <img width="662" height="732" alt="Screenshot 2025-09-05 122431" src="https://github.com/user-attachments/assets/8e82898d-e66e-4e89-b520-48711dafec40" />
 <img width="861" height="820" alt="Screenshot 2025-09-05 122452" src="https://github.com/user-attachments/assets/dc34e79c-6cdc-4cad-8fec-bb64613cd851" />
 <img width="812" height="832" alt="Screenshot 2025-09-05 122518" src="https://github.com/user-attachments/assets/3a98e28e-f294-43db-89b3-f18135edd9ca" />
+<img width="812" height="832" alt="Screenshot 2025-09-05 122518" src="https://github.com/user-attachments/assets/4ba248de-874a-4e70-adef-88cf64c9e444" />
 
 
 Happy Onam ! <br>
 
 Made with ❤️ at TinkerHub LBSITW
+
 
